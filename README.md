@@ -13,6 +13,33 @@
 - Real-time Reporting Dashboard: **Node.js**, **Express.js**,**React.js**, **MongoDB**
 
 
+## ScreenShots
+
+#### Authentication and ID verification
+
+## ![ScreenShot](./screenshots/SighIn.png)
+
+
+#### DashBoard
+
+## ![ScreenShot](./screenshots/1.png)
+
+
+#### Symptoms Detection Chatbot
+
+## ![ScreenShot](./screenshots/2.png)
+
+## ![ScreenShot](./screenshots/3.png)
+
+## ![ScreenShot](./screenshots/4.png)
+
+#### Python Terminal Chatbot
+
+## ![ScreenShot](./screenshots/5.png)
+
+## ![ScreenShot](./screenshots/6.png)
+
+
 ## Run on your Device
 
 #### Prerequisites
@@ -57,27 +84,6 @@ Start the Client
   npm install --force
   npm run start
 ```
-
-## ScreenShots
-
-#### Authentication and ID verification
-
-## ![ScreenShot](./screenshots/SighIn.png)
-
-#### DashBoard
-
-## ![ScreenShot](./screenshots/1.png)
-
-#### Symptoms Detection Chatbot
-
-## ![ScreenShot](./screenshots/2.png)
-## ![ScreenShot](./screenshots/3.png)
-## ![ScreenShot](./screenshots/4.png)
-
-#### Python Terminal Chatbot
- 
-## ![ScreenShot](./screenshots/5.png)
-## ![ScreenShot](./screenshots/6.png)
 
 
 
