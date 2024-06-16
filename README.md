@@ -1,4 +1,4 @@
-# Medical Assistant
+# HealthCare ChatBot
 
  An **AI-powered healthcare Chatbot** that helps patients find suitable doctors based on symptoms, location. It uses python trained model.
 
