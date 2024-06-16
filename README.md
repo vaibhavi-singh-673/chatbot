@@ -5,7 +5,7 @@
 ## Main Features
 
 - Symptom Detection Module
-- User Authentication and Identity Verification
+- User Authentication(sign-up,sign-in)
 
 ## Tech Stack Used
 
@@ -15,7 +15,7 @@
 
 ## ScreenShots
 
-#### Authentication and ID verification
+#### Authentication 
 
 ## ![ScreenShot](./screenshots/SighIn.png)
 
